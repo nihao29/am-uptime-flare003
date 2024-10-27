@@ -19,7 +19,7 @@ const workerConfig = {
       target: 'https://vwo50.club',
         tooltip: 'This is a tooltip for this monitor',
   // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
-  statusPageLink: 'https://example.com',
+  statusPageLink: 'https://vwo50.club',
     },
 
  {
@@ -29,7 +29,7 @@ const workerConfig = {
       target: 'https://u1s1.one',
      tooltip: 'This is a tooltip for this monitor',
   // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
-  statusPageLink: 'https://example.com',
+  statusPageLink: 'https://u1s1.one',
     },
 
     {
